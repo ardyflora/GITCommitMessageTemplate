@@ -19,7 +19,7 @@ Then copy the gitCommitMessage into `~/.gitCommitMessage` with the new default c
 ## Good GIT Commit Message
 ![Good Commit Message](https://github.com/ardyflora/GITCommitMessageTemplate/blob/master/goodCommitMessage.png)
 
-# The GIT Commit template is Inspired by
+## The GIT Commit template is Inspired by
 https://chris.beams.io/posts/git-commit/
 
 ## Release History
