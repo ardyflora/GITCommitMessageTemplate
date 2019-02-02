@@ -1,10 +1,10 @@
 # GIT Commit Message Template
 > GIT commit message template to help write a better commit message
 
-# Template preview 
+## Template preview 
 ![Commit Message Template](https://github.com/ardyflora/GITCommitMessageTemplate/blob/master/gitCommitMessageTemplate.png)
 
-# Usage
+## Usage
 Clone and download `.gitCommitMessage` into your desired location.
 
 The following steps are Inspired by https://thoughtbot.com/blog/better-commit-messages-with-a-gitmessage-template
@@ -16,7 +16,7 @@ Set up commit.template in `~/.gitconfig`:
 ```
 Then copy the gitCommitMessage into `~/.gitCommitMessage` with the new default commit message.
 
-# Good GIT Commit Message
+## Good GIT Commit Message
 ![Good Commit Message](https://github.com/ardyflora/GITCommitMessageTemplate/blob/master/goodCommitMessage.png)
 
 # The GIT Commit template is Inspired by
