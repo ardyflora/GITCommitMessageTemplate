@@ -1,29 +1,25 @@
 # GIT Commit Message Template
 > GIT commit message template to help write a better commit message
 
-# Subject line with tracking info if any
-Creating commit message template - #123
+# Template preview 
+![Commit Message Template](https://github.com/ardyflora/GITCommitMessageTemplate/tree/master/gitCommitMessageTemplate.png)
 
-# Description
-More detailed explanatory text, if necessary. Since, there are various variations on how to write a commit message. Most developers agree that picking one and sticking to it is far better than the chaos that ensues when everybody does their own thing. 
+# Usage
+Clone and download .gitCommitMessage into your desired location.
 
-Explain the problem that this commit is solving. You should really focus on "Why".
+The following steps are Inspired by https://thoughtbot.com/blog/better-commit-messages-with-a-gitmessage-template
 
-Further paragraphs come after blank lines.
- - Bullet points are okay, too
- - Typically a hyphen or asterisk is used for the bullet, preceded
-   by a single space, with blank lines in between, but conventions
-   vary here
+Set up commit.template in ~/.gitconfig:
 
-# Testing Information
-Here, you may show what were the test results if any which only ensures that you tested your code, but also gives other people confidence and saves them time to think about few other things.
+[commit]
+  template = ~/.gitCommitMessage
 
-# Issue Tracking Info
-If you use an issue tracker, put references to them at the bottom, like this:
-- Resolves: #123
-- See also: #456, #789
+Then copy the gitCommitMessage into ~/.gitCommitMessage with the new default commit message.
 
-# Inspired by
+# Good GIT Commit Message
+![Good Commit Message](https://github.com/ardyflora/GITCommitMessageTemplate/tree/master/goodCommitMessage.png)
+
+# The GIT Commit template is Inspired by
 https://chris.beams.io/posts/git-commit/
 
 ## Release History

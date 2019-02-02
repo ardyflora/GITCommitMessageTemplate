@@ -1,0 +1,29 @@
+# SUBJECT LINE with tracking info if any
+# Creating commit message template - #123
+# |<-  Limit the subject line to 50 characters  ->|
+
+# DESCRIPTION
+# Explain what here, what change you did. 
+# |<- Wrap the body at 72 characters ->|
+
+# Break body into different paragraphs to explain why vs how
+
+# TESTING INFORMATION
+# Here, you may show what were the test results if any which
+# only ensures that you tested your code, but also gives other
+# people confidence and saves them time to think about few
+# other things.
+
+# ISSUE TRACKING INFO
+# If you use an issue tracker, put references to them at the bottom, like this:
+# - Resolves: #123
+# - See also: #456, #789
+
+# THINGS TO REMEMBER
+# Separate subject from body with a blank line
+# Limit the subject line to 50 characters
+# Capitalize the subject line
+# Do not end the subject line with a period
+# Use the imperative mood in the subject line
+# Wrap the body at 72 characters
+# Use the body to explain what and why vs. how
