@@ -1,8 +1,8 @@
 # GIT Commit Message Template
 > GIT commit message template to help write a better commit message
 
-## Template preview 
-![Commit Message Template](https://github.com/ardyflora/GITCommitMessageTemplate/blob/master/gitCommitMessageTemplate.png)
+## GIT Template preview 
+![Commit Message Template](https://github.com/ardyflora/GITCommitMessageTemplate/blob/master/gitMessage.gif)
 
 ## Usage
 Clone and download `.gitCommitMessage` into your desired location.
